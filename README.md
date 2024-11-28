@@ -1,16 +1,9 @@
-# HomeAssignment
-Sleep Related Brain Activity
-- Emma van den Brink
-- Data notebook was completed: 28-11-2024
-- The links to the Neurosynth pages of sleep related brain activity: https://neurosynth.org/analyses/terms/sleep/
-
-This project uses MRI data to visualize and interpret brain activity during sleep. This project layers functional data onto anatomical brain structures to create a statistical brain map, to highlight active brain regions during sleep. Additionaly, it generates a histogram of the voxel intensity to analyze the distribution of brain acitivity during sleep. 
-
-# Project Title  
-*Visualization of Brain Activity During Sleep*
+# Sleep Related Brain Actvity
 - Emma van den Brink
 - Date notebook was completed: 28-11-2024
 - The links to the Neurosynth pages of sleep related brain activity: https://neurosynth.org/analyses/terms/sleep/
+
+This project uses MRI data to visualize and interpret brain activity during sleep. This project layers functional data onto anatomical brain structures to create a statistical brain map, to highlight active brain regions during sleep. Additionaly, it generates a histogram of the voxel intensity to analyze the distribution of brain acitivity during sleep. 
 
 ---
 
