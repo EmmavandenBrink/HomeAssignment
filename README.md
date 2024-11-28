@@ -1,5 +1,5 @@
 # Sleep Related Brain Actvity
-- Emma van den Brink
+- *student: Emma van den Brink
 - Date notebook was completed: 28-11-2024
 - The links to the Neurosynth pages of sleep related brain activity: https://neurosynth.org/analyses/terms/sleep/
 
