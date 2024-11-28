@@ -11,7 +11,7 @@ This project uses MRI data to visualize and interpret brain activity during slee
 
 | Section                 | Description                                                                       |
 |-------------------------|-----------------------------------------------------------------------------------|
-| **Introduction**         | Brief overview of the project and its objectives.                                 |
+| **Introduction**         | Brief overview of the project                               |
 | **Data Used**            | Information on the MRI data files (functional and anatomical) used in the analysis. |
 | **Notebook and Scripts** | The Jupyter Notebook (`HomeAssignment.ipynb`) containing the analysis code. |
 | **Outputs**              | Visual outputs generated, including a brain map and histogram of voxel intensities. |
