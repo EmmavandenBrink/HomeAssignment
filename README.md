@@ -26,7 +26,7 @@ This is a Home Assignment for the course *Programming For Psychologists* at the 
 ## Data Used
 - Functional MRI data (`*.nii`) highlighting brain activity during sleep.  
 - Anatomical MRI data (`*.nii`) used as the background structure for visualization.
-- Source: Neurosynth: Sleep, the files 'Anatomical' and 'Uniformity test' were used
+    - Source: Neurosynth: Sleep, the files 'Anatomical' and 'Uniformity test' were used
 
 ## Notebook and Scripts
 The main analysis is performed in the Jupyter Notebook:  
