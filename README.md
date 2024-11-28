@@ -18,7 +18,7 @@ This is a Home Assignment for the course *Programming For Psychologists* at the 
 | Section                 | Description                                                                       |
 |-------------------------|-----------------------------------------------------------------------------------|
 | **Data Used**            | Information on the MRI data files (functional and anatomical) used in the analysis. |
-| **Notebook and Scripts** | The Jupyter Notebook (`HomeAssignment.ipynb`) containing the analysis code. |
+| **Notebook and Scripts** | The Jupyter Notebook (`EmmavdBrink_HomeAssignment_Sleep.ipynb`) containing the analysis code. |
 | **Outputs**              | Visual outputs generated, including a brain map and histogram of voxel intensities. |
 | **Python Packages Used** | List of Python libraries used in the project.                                      |
 
@@ -30,7 +30,7 @@ This is a Home Assignment for the course *Programming For Psychologists* at the 
 
 ## Notebook and Scripts
 The main analysis is performed in the Jupyter Notebook:  
-- `HomeAssignment.ipynb`  
+- `EmmavdBrink_HomeAssignment_Sleep.ipynb`  
 
 ## Outputs
 - A statistical brain map showing regions active during sleep.  
