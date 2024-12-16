@@ -4,7 +4,7 @@
 - **Course code**: M_PROPSY
 - **Course Coordinator**: Matthias Nau
 - **Teaching Assistent**: Anna van Harmelen
-- **Date**: 8-11-2024
+- **Date**: 5-12-2024
 - **Link**: https://neurosynth.org/analyses/terms/sleep/ 
 
     - The files *Sleep: Uniformity test* and *Anatomical* were used from **Neurosynth**
