@@ -17,24 +17,24 @@ This is a Home Assignment for the course *Programming For Psychologists* at the 
 
 | Section                 | Description                                                                       |
 |-------------------------|-----------------------------------------------------------------------------------|
-| **Data Used**            | Information on the MRI data files (functional and anatomical) used. |
-| **Notebook and Scripts** | The Jupyter Notebook (`EmmavdBrink_HomeAssignment_Sleep.ipynb`) containing the code. |
-| **Outputs**              | Visual outputs generated, including a brain map and histogram of voxel intensities. |
+| **Data Used**            | Information on the MRI data files (functional and anatomical) used |
+| **Notebook** | The Jupyter Notebook (`EmmavdBrink_HomeAssignment_Sleep.ipynb`) containing the code |
+| **Outputs**              | Visual outputs generated, including a brain map and histogram of voxel intensities |
 | **Python Packages Used** | List of Python libraries used                                   |
 
 ---
 ## Data Used
-- Functional MRI data (`*.nii`) highlighting brain activity during sleep.  
-- Anatomical MRI data (`*.nii`) used as the background structure for visualization.
+- Functional MRI data (`*.nii`) highlighting brain activity during sleep  
+- Anatomical MRI data (`*.nii`) used as the background structure for visualization
     - Source: Neurosynth: Sleep, the files 'Anatomical' and 'Uniformity test' were used
 
-## Notebook and Scripts
+## Notebook
 The main analysis is performed in the Jupyter Notebook:  
 - `EmmavdBrink_HomeAssignment_Sleep.ipynb`  
 
 ## Outputs
-- A statistical brain map showing regions active during sleep.  
-- A histogram of voxel intensities representing brain activity distribution.  
+- A statistical brain map showing regions active during sleep  
+- A histogram of voxel intensities representing brain activity distribution  
 
 ## Python Packages Used [Python version 3.12.7]
 - **`os`**
